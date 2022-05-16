@@ -1,7 +1,7 @@
 # Documentation: https://docs.brew.sh/Formula-Cookbook
 #                https://rubydoc.brew.sh/Formula
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
-class GitSwitch < Formula
+class Swgit < Formula
     desc "Easy using git with multiple accounts."
     homepage ""
     url "https://github.com/9bany/git-switch/releases/download/v1.1.0-rc5/swgit-macos"
