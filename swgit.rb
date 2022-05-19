@@ -3,10 +3,10 @@
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
 class Swgit < Formula
     version "v1.1.0"
-    desc "Easy using git with multiple accounts."
+    desc "CLI - Easy using git with multiple accounts."
     homepage ""
-    url "https://github.com/9bany/git-switch/releases/download/1.1.0/swgit-macos"      
-    sha256 "2c81237748aa62f7f9bc55c54a7870269afd629f34277d3676bbe1ebbc2c60e7"
+    url "https://github.com/9bany/git-switch/releases/download/1.1.3/swgit-macos"
+    sha256 "8514797c8e4614e44de548d922c8c872fdb7b3e9d930dd567fa30b0fee425f45"
     license "MIT"
   
     # depends_on "cmake" => :build
