@@ -2,7 +2,7 @@
 #                https://rubydoc.brew.sh/Formula
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
 class Swgit < Formula
-    version "v1.1.0-beta"
+    version "v1.0.0"
     desc "Easy using git with multiple accounts."
     homepage ""
     url "https://github.com/9bany/git-switch/releases/download/v1.1.0-beta/swgit-macos"
